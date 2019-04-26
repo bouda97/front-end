@@ -104,7 +104,7 @@
     "yup": "^0.27.0"
   },
   "devDependencies": {
-    "@babel/preset-env": "^7.4.3",
+    "@babel/preset-env": "^7.4.4",
     "axios-mock-adapter": "^1.16.0",
     "babel-eslint": "^10.0.1",
     "babel-jest": "^24.7.1",
